@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DSA.Core.DesignPatterns.Singleton
+namespace DSA.Core.DesignPatterns.CreationDP.Singleton
 {
 
     public sealed class MyClass
